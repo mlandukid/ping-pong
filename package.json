@@ -1,0 +1,16 @@
+{
+  "name": "ping-pong",
+  "version": "1.0.0",
+  "description": "",
+  "main": "pingpong.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sass": "node-sass --watch styles.scss styles.css"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^8.0.0"
+  }
+}
